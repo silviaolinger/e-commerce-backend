@@ -1,5 +1,5 @@
 # e-commerce-backend
-This project is a backend plataform to support them e-commerce website using latest technologies such as Express.js API to use Sequelize to interact with a MySQL database.
+This project is a backend plataform to support the e-commerce website using latest technologies such as Express.js API to use Sequelize to interact with a MySQL database.
 
 
  
@@ -15,8 +15,8 @@ https://github.com/silviaolinger/e-commerce-backend
 # Application Criteria:
 
 
-## Us```md
-IVEN a functional Express.js API
+```md
+GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
 WHEN I enter schema and seed commands
